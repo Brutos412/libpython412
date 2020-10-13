@@ -7,6 +7,16 @@ Linnk para o curso [Python Pro](https://www.python.pro.com.br)
 
 Suportada versão 3 de Python
 
+Para instalar:
+"""
+python3 -3 venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+"""
+Para conferir qualidade de código:
+"""
+flake8 no console 
+"""
 
 
 
